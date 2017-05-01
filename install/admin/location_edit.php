@@ -1,0 +1,1 @@
+<? require_once $_SERVER['DOCUMENT_ROOT'] . '/local/modules/ds.geolocation/admin/location_edit.php'; ?>
